@@ -217,10 +217,8 @@ streamlit
 
 | Metric | Score |
 |---|---|
-| Test Accuracy | _update after training_ |
-| F1-Score | _update after training_ |
-| Purchase Prediction AUC | _update after training_ |
-| Segments Identified | _update after training_ |
+| Test Accuracy | 	99.94%
+
 
 > *Update this section with your actual results after model training.*
 
@@ -250,6 +248,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
+**Kandela Vamshi**
+- GitHub: https://github.com/Vamshikandela
+- LinkedIn: https://www.linkedin.com/in/kandela-vamshi-2b4457258/
